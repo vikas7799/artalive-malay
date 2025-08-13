@@ -6,22 +6,25 @@ const Contact = () => {
   return (
     <>
       <Helmet>
-        <title>Contact Us - Prosthetics & Orthotics Centre In Malaysia</title>
+        <title>Hubungi Kami - Pusat Prostetik & Ortotik di Malaysia</title>
         <meta
           name="description"
-          content="Contact ArtaLive for a free consultation with a certified prosthetist & orthotist (CPO). Get expert guidance—call now or book your appointment online!"
+          content="Hubungi Artalive untuk konsultasi percuma dengan pakar prostetik & ortotik bertauliah (CPO). Dapatkan panduan profesional—hubungi sekarang atau tempah janji temu anda secara dalam talian!"
         />
-        <link rel="canonical" href="https://artalive.com.my/contact-us" />
+        <link rel="canonical" href="https://artalive.com.my/my/hubungi-kami" />
         <meta name="robots" content="index, follow" />
         <meta
           property="og:title"
-          content="Contact Us - Prosthetics & Orthotics Centre In Malaysia"
+          content="Hubungi Kami - Pusat Prostetik & Ortotik di Malaysia"
         />
         <meta
           property="og:description"
-          content="Contact ArtaLive for a free consultation with a certified prosthetist & orthotist (CPO). Get expert guidance—call now or book your appointment online!"
+          content="Hubungi Artalive untuk konsultasi percuma dengan pakar prostetik & ortotik bertauliah (CPO). Dapatkan panduan profesional—hubungi sekarang atau tempah janji temu anda secara dalam talian!"
         />
-        <meta property="og:url" content="https://artalive.com.my/contact-us" />
+        <meta
+          property="og:url"
+          content="https://artalive.com.my/my/hubungi-kami"
+        />
         <meta property="og:type" content="website" />
       </Helmet>
 

@@ -98,30 +98,25 @@ const ScoliosisBracings = [
     <>
       <TopRightButton label="Soalan Lazim" onClick={scrollToFaq} />
 <Helmet>
-  <title>Topi Keledar Tengkorak
- in Kuala Lumpur | Effective Treatment for Cranial Asymmetry</title>
+  <title>Topi Keledar Tengkorak di Kuala Lumpur | Rawatan Berkesan untuk Asimetri Tengkorak</title>
   <meta
     name="description"
-    content="Artalive offers expert cranial helmets in Kuala Lumpur to treat plagiocephaly and cranial asymmetry in infants. Safe, comfortable, and effective. Contact us today for a free consultation!"
+    content="Artalive menawarkan topi keledar tengkorak pakar di Kuala Lumpur untuk merawat plagiosefali dan asimetri tengkorak pada bayi. Selamat, selesa dan berkesan. Hubungi kami hari ini untuk konsultasi percuma!"
   />
-  <link rel="canonical" href="https://artalive.com.my/topi-keledar-tengkorak
-
-" />
+  <link rel="canonical" href="https://artalive.com.my/my/topi-keledar-tengkorak" />
   <meta name="robots" content="index, follow" />
   <meta
     property="og:title"
-    content="Topi Keledar Tengkorak
- in Kuala Lumpur | Effective Treatment for Cranial Asymmetry"
+    content="Topi Keledar Tengkorak di Kuala Lumpur | Rawatan Berkesan untuk Asimetri Tengkorak"
   />
   <meta
     property="og:description"
-    content="Artalive offers expert cranial helmets in Kuala Lumpur to treat plagiocephaly and cranial asymmetry in infants. Safe, comfortable, and effective. Contact us today for a free consultation!"
+    content="Artalive menawarkan topi keledar tengkorak pakar di Kuala Lumpur untuk merawat plagiosefali dan asimetri tengkorak pada bayi. Selamat, selesa dan berkesan. Hubungi kami hari ini untuk konsultasi percuma!"
   />
-  <meta property="og:url" content="https://artalive.com.my/topi-keledar-tengkorak
-
-" />
+  <meta property="og:url" content="https://artalive.com.my/my/topi-keledar-tengkorak" />
   <meta property="og:type" content="website" />
 </Helmet>
+
 
 
       <div className="container-fluid  bg-section p-0 line m-0">

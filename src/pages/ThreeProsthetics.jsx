@@ -84,31 +84,28 @@ const ThreeProsthetics = () => {
   return (
     <>
       <TopRightButton label="Soalan Lazim" onClick={scrollToFaq} />
-      <Helmet>
-        <title>
-          Affordable 3D Prosthetics in Kuala Lumpur, Malaysia | Custom Hand
-          Solutions
-        </title>
-        <meta
-          name="description"
-          content="Get lightweight, custom 3D-printed hand prosthetics in Kuala Lumpur, Malaysia. Advanced design ensures comfort, adaptability & affordability. Book a free consultation today!"
-        />
-        <link rel="canonical" href="https://artalive.com.my/prostetik-3d" />
-        <meta name="robots" content="index, follow" />
-        <meta
-          property="og:title"
-          content="Affordable 3D Prosthetics in Kuala Lumpur, Malaysia | Custom Hand Solutions"
-        />
-        <meta
-          property="og:description"
-          content="Get lightweight, custom 3D-printed hand prosthetics in Kuala Lumpur, Malaysia. Advanced design ensures comfort, adaptability & affordability. Book a free consultation today!"
-        />
-        <meta
-          property="og:url"
-          content="https://artalive.com.my/prostetik-3d"
-        />
-        <meta property="og:type" content="website" />
-      </Helmet>
+   <Helmet>
+  <title>
+    Prostetik 3D Mampu Milik di Kuala Lumpur, Malaysia | Penyelesaian Tangan Tersuai
+  </title>
+  <meta
+    name="description"
+    content="Dapatkan prostetik tangan bercetak 3D yang ringan dan tersuai di Kuala Lumpur, Malaysia. Reka bentuk canggih memastikan keselesaan, kebolehsuaian & harga berpatutan. Tempah konsultasi percuma hari ini!"
+  />
+  <link rel="canonical" href="https://artalive.com.my/my/prostetik-3d" />
+  <meta name="robots" content="index, follow" />
+  <meta
+    property="og:title"
+    content="Prostetik 3D Mampu Milik di Kuala Lumpur, Malaysia | Penyelesaian Tangan Tersuai"
+  />
+  <meta
+    property="og:description"
+    content="Dapatkan prostetik tangan bercetak 3D yang ringan dan tersuai di Kuala Lumpur, Malaysia. Reka bentuk canggih memastikan keselesaan, kebolehsuaian & harga berpatutan. Tempah konsultasi percuma hari ini!"
+  />
+  <meta property="og:url" content="https://artalive.com.my/my/prostetik-3d" />
+  <meta property="og:type" content="website" />
+</Helmet>
+
 
       <div className="container-fluid  bg-section p-0 line m-0">
         <h1 className="text-desktop  d-none d-md-block display-2 ">

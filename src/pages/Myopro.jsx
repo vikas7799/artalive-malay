@@ -113,24 +113,25 @@ const Myopro = () => {
 
 
 <Helmet>
-  <title>Regain Arm Function with MyoPro Orthosis in Kuala Lumpur | ArtaLive</title>
+  <title>Kembalikan Fungsi Lengan dengan MyoPro Orthosis di Kuala Lumpur | Artalive</title>
   <meta
     name="description"
-    content="Find MyoPro Orthosis in Kuala Lumpur with ArtaLive. Restore arm & hand motion for weak or paralyzed limbs. Book your free consultation today with our experts!"
+    content="Dapatkan MyoPro Orthosis di Kuala Lumpur bersama Artalive. Pulihkan pergerakan lengan & tangan untuk anggota yang lemah atau lumpuh. Tempah konsultasi percuma dengan pakar kami hari ini!"
   />
-  <link rel="canonical" href="https://artalive.com.my/myopro-orthosis" />
+  <link rel="canonical" href="https://artalive.com.my/my/myopro-orthosis" />
   <meta name="robots" content="index, follow" />
   <meta
     property="og:title"
-    content="Regain Arm Function with MyoPro Orthosis in Kuala Lumpur | ArtaLive"
+    content="Kembalikan Fungsi Lengan dengan MyoPro Orthosis di Kuala Lumpur | Artalive"
   />
   <meta
     property="og:description"
-    content="Find MyoPro Orthosis in Kuala Lumpur with ArtaLive. Restore arm & hand motion for weak or paralyzed limbs. Book your free consultation today with our experts!"
+    content="Dapatkan MyoPro Orthosis di Kuala Lumpur bersama Artalive. Pulihkan pergerakan lengan & tangan untuk anggota yang lemah atau lumpuh. Tempah konsultasi percuma dengan pakar kami hari ini!"
   />
-  <meta property="og:url" content="https://artalive.com.my/myopro-orthosis" />
+  <meta property="og:url" content="https://artalive.com.my/my/myopro-orthosis" />
   <meta property="og:type" content="website" />
 </Helmet>
+
 
       <div className="container-fluid  bg-section p-0 line m-0">
         <h1 className="text-desktop  d-none d-md-block display-2 ">

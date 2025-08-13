@@ -54,28 +54,28 @@ const Prostetik = () => {
 
   return (
     <>
-      <Helmet>
-        <title>
-          Prosthetic Care in Malaysia | Kaki Palsu, Arm & Leg Solutions |
-          ArtaLive
-        </title>
-        <meta
-          name="description"
-          content="Explore ArtaLive’s expert prosthetic care in Malaysia. Get kaki palsu, prosthetic arm & leg with top comfort & mobility. Book a free consultation today!"
-        />
-        <link rel="canonical" href="https://artalive.com.my/prosthetics" />
-        <meta name="robots" content="index, follow" />
-        <meta
-          property="og:title"
-          content="Prosthetic Care in Malaysia | Kaki Palsu, Arm & Leg Solutions | ArtaLive"
-        />
-        <meta
-          property="og:description"
-          content="Explore ArtaLive’s expert prosthetic care in Malaysia. Get kaki palsu, prosthetic arm & leg with top comfort & mobility. Book a free consultation today!"
-        />
-        <meta property="og:url" content="https://artalive.com.my/prosthetics" />
-        <meta property="og:type" content="website" />
-      </Helmet>
+    <Helmet>
+  <title>
+    Penjagaan Prostetik di Malaysia | Kaki Palsu, Penyelesaian Lengan & Kaki | Artalive
+  </title>
+  <meta
+    name="description"
+    content="Terokai penjagaan prostetik profesional Artalive di Malaysia. Dapatkan kaki palsu, lengan & kaki prostetik dengan keselesaan dan mobiliti terbaik. Tempah konsultasi percuma hari ini!"
+  />
+  <link rel="canonical" href="https://artalive.com.my/my/prostetik" />
+  <meta name="robots" content="index, follow" />
+  <meta
+    property="og:title"
+    content="Penjagaan Prostetik di Malaysia | Kaki Palsu, Penyelesaian Lengan & Kaki | Artalive"
+  />
+  <meta
+    property="og:description"
+    content="Terokai penjagaan prostetik profesional Artalive di Malaysia. Dapatkan kaki palsu, lengan & kaki prostetik dengan keselesaan dan mobiliti terbaik. Tempah konsultasi percuma hari ini!"
+  />
+  <meta property="og:url" content="https://artalive.com.my/my/prostetik" />
+  <meta property="og:type" content="website" />
+</Helmet>
+
 
       <div className="container-fluid  bg-section p-0 line m-0">
         <h1 className="text-desktop  d-none d-md-block display-2 ">

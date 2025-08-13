@@ -86,24 +86,25 @@ const PediatricProsthetics = () => {
     <>
       <TopRightButton label="Soalan Lazim" onClick={scrollToFaq} />
 <Helmet>
-  <title>Custom Pediatrik Prostetik in Kuala Lumpur, Malaysia | ArtaLive</title>
+  <title>Prostetik Pediatrik Tersuai di Kuala Lumpur, Malaysia | Artalive</title>
   <meta
     name="description"
-    content="ArtaLive offers customized pediatric prosthetics for children with congenital limb differences or amputations in Kuala Lumpur, Malaysia. Get a free consultation today!"
+    content="Artalive menawarkan prostetik pediatrik tersuai untuk kanak-kanak dengan perbezaan anggota kongenital atau amputasi di Kuala Lumpur, Malaysia. Dapatkan konsultasi percuma hari ini!"
   />
-  <link rel="canonical" href="https://artalive.com.my/pediatrik-prostetik" />
+  <link rel="canonical" href="https://artalive.com.my/my/pediatrik-prostetik" />
   <meta name="robots" content="index, follow" />
   <meta
     property="og:title"
-    content="Custom Pediatrik Prostetik in Kuala Lumpur, Malaysia | ArtaLive"
+    content="Prostetik Pediatrik Tersuai di Kuala Lumpur, Malaysia | Artalive"
   />
   <meta
     property="og:description"
-    content="ArtaLive offers customized pediatric prosthetics for children with congenital limb differences or amputations in Kuala Lumpur, Malaysia. Get a free consultation today!"
+    content="Artalive menawarkan prostetik pediatrik tersuai untuk kanak-kanak dengan perbezaan anggota kongenital atau amputasi di Kuala Lumpur, Malaysia. Dapatkan konsultasi percuma hari ini!"
   />
-  <meta property="og:url" content="https://artalive.com.my/pediatrik-prostetik" />
+  <meta property="og:url" content="https://artalive.com.my/my/pediatrik-prostetik" />
   <meta property="og:type" content="website" />
 </Helmet>
+
 
       <div className="container-fluid  bg-section p-0 line m-0">
         <h1 className="text-desktop  d-none d-md-block display-2 ">

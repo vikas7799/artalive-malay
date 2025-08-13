@@ -108,31 +108,32 @@ const SpecailProsthetics = () => {
 
   return (
     <>
-      <Helmet>
-        <title>Prostetik Khas in Malaysia | Artalive Sdn Bhd</title>
-        <meta
-          name="description"
-          content="Explore Artalive’s custom prosthetics for hand, arm, leg & thigh. Expertly crafted to restore mobility and comfort after amputation."
-        />
-        <link
-          rel="canonical"
-          href="https://artalive.com.my/prostetik-khas"
-        />
-        <meta name="robots" content="index, follow" />
-        <meta
-          property="og:title"
-          content="Prostetik Khas in Malaysia | Artalive Sdn Bhd"
-        />
-        <meta
-          property="og:description"
-          content="Explore Artalive’s custom prosthetics for hand, arm, leg & thigh. Expertly crafted to restore mobility and comfort after amputation."
-        />
-        <meta
-          property="og:url"
-          content="https://artalive.com.my/prostetik-khas"
-        />
-        <meta property="og:type" content="website" />
-      </Helmet>
+  <Helmet>
+  <title>Prostetik Khas di Malaysia | Artalive Sdn Bhd</title>
+  <meta
+    name="description"
+    content="Terokai prostetik khas Artalive untuk tangan, lengan, kaki & peha. Direka dengan kepakaran untuk mengembalikan mobiliti dan keselesaan selepas amputasi."
+  />
+  <link
+    rel="canonical"
+    href="https://artalive.com.my/my/prostetik-khas"
+  />
+  <meta name="robots" content="index, follow" />
+  <meta
+    property="og:title"
+    content="Prostetik Khas di Malaysia | Artalive Sdn Bhd"
+  />
+  <meta
+    property="og:description"
+    content="Terokai prostetik khas Artalive untuk tangan, lengan, kaki & peha. Direka dengan kepakaran untuk mengembalikan mobiliti dan keselesaan selepas amputasi."
+  />
+  <meta
+    property="og:url"
+    content="https://artalive.com.my/my/prostetik-khas"
+  />
+  <meta property="og:type" content="website" />
+</Helmet>
+
 
       <TopRightButton label="Soalan Lazim" onClick={scrollToFaq} />
 

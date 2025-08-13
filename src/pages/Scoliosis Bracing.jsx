@@ -91,29 +91,26 @@ const ScoliosisBracing = () => {
     <>
       <TopRightButton label="Soalan Lazim" onClick={scrollToFaq} />
 
-      <Helmet>
-  <title>Effective Pendakap Scoliosis in Malaysia | Pediatric Support | ArtaLive</title>
+    <Helmet>
+  <title>Pendakap Skoliosis Berkesan di Malaysia | Sokongan Pediatrik | Artalive</title>
   <meta
     name="description"
-    content="Get expert scoliosis bracing in Malaysia at ArtAlive. Early intervention with custom braces helps correct spine curvature in children. Book your consultation now!"
+    content="Dapatkan pendakap skoliosis pakar di Malaysia bersama Artalive. Intervensi awal dengan pendakap khusus membantu membetulkan kelengkungan tulang belakang kanak-kanak. Tempah konsultasi anda sekarang!"
   />
-  <link rel="canonical" href="https://artalive.com.my/pendakap-scoliosis
-
-" />
+  <link rel="canonical" href="https://artalive.com.my/my/pendakap-scoliosis" />
   <meta name="robots" content="index, follow" />
   <meta
     property="og:title"
-    content="Effective Pendakap Scoliosis in Malaysia | Pediatric Support | ArtaLive"
+    content="Pendakap Skoliosis Berkesan di Malaysia | Sokongan Pediatrik | Artalive"
   />
   <meta
     property="og:description"
-    content="Get expert scoliosis bracing in Malaysia at ArtAlive. Early intervention with custom braces helps correct spine curvature in children. Book your consultation now!"
+    content="Dapatkan pendakap skoliosis pakar di Malaysia bersama Artalive. Intervensi awal dengan pendakap khusus membantu membetulkan kelengkungan tulang belakang kanak-kanak. Tempah konsultasi anda sekarang!"
   />
-  <meta property="og:url" content="https://artalive.com.my/pendakap-scoliosis
-
-" />
+  <meta property="og:url" content="https://artalive.com.my/my/pendakap-scoliosis" />
   <meta property="og:type" content="website" />
 </Helmet>
+
 
 
       <div className="container-fluid  bg-section p-0 line m-0">

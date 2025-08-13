@@ -103,25 +103,26 @@ const FootCareSolution = () => {
   return (
     <>
 
-    <Helmet>
-  <title>Foot Care Solutions in Malaysia | Custom Made Insoles in Malaysia by ArtaLive</title>
+   <Helmet>
+  <title>Penyelesaian Penjagaan Kaki di Malaysia | Insol Tersuai di Malaysia oleh Artalive</title>
   <meta
     name="description"
-    content="ArtaLive offers expert foot care solutions in Malaysia—custom insoles for flat feet & tapak kaki rata. Book your free consultation with our certified CPO today."
+    content="Artalive menawarkan penyelesaian penjagaan kaki pakar di Malaysia—insol tersuai untuk kaki rata & tapak kaki rata. Tempah konsultasi percuma dengan CPO bertauliah kami hari ini."
   />
-  <link rel="canonical" href="https://artalive.com.my/penyelesaian-penjagaan-kaki" />
+  <link rel="canonical" href="https://artalive.com.my/my/penyelesaian-penjagaan-kaki" />
   <meta name="robots" content="index, follow" />
   <meta
     property="og:title"
-    content="Foot Care Solutions in Malaysia | Custom Made Insoles in Malaysia by ArtaLive"
+    content="Penyelesaian Penjagaan Kaki di Malaysia | Insol Tersuai di Malaysia oleh Artalive"
   />
   <meta
     property="og:description"
-    content="ArtaLive offers expert foot care solutions in Malaysia—custom insoles for flat feet & tapak kaki rata. Book your free consultation with our certified CPO today."
+    content="Artalive menawarkan penyelesaian penjagaan kaki pakar di Malaysia—insol tersuai untuk kaki rata & tapak kaki rata. Tempah konsultasi percuma dengan CPO bertauliah kami hari ini."
   />
-  <meta property="og:url" content="https://artalive.com.my/penyelesaian-penjagaan-kaki" />
+  <meta property="og:url" content="https://artalive.com.my/my/penyelesaian-penjagaan-kaki" />
   <meta property="og:type" content="website" />
 </Helmet>
+
 
 
       <TopRightButton label="Soalan Lazim" onClick={scrollToFaq} />

@@ -121,26 +121,25 @@ const LowerLimbBracing = () => {
 
 
 <Helmet>
-  <title>Lower Limb Bracing in Malaysia for Children’s Mobility & Comfort | ArtaLive</title>
+  <title>Pengukuhan Anggota Bawah di Malaysia untuk Mobiliti & Keselesaan Kanak-kanak | Artalive</title>
   <meta
     name="description"
-    content="Discover Artalive’s Lower Limb Bracing solutions for kids. Improve mobility, comfort & stability with custom orthoses. Book a free consultation with our experts today!"
+    content="Temui penyelesaian Pengukuhan Anggota Bawah Artalive untuk kanak-kanak. Tingkatkan mobiliti, keselesaan & kestabilan dengan ortosis khusus. Tempah konsultasi percuma bersama pakar kami hari ini!"
   />
-  <link rel="canonical" href="https://artalive.com.my/pengukuhan-anggota-bawah
-" />
+  <link rel="canonical" href="https://artalive.com.my/my/pengukuhan-anggota-bawah" />
   <meta name="robots" content="index, follow" />
   <meta
     property="og:title"
-    content="Lower Limb Bracing in Malaysia for Children’s Mobility & Comfort | ArtaLive"
+    content="Pengukuhan Anggota Bawah di Malaysia untuk Mobiliti & Keselesaan Kanak-kanak | Artalive"
   />
   <meta
     property="og:description"
-    content="Discover Artalive’s Lower Limb Bracing solutions for kids. Improve mobility, comfort & stability with custom orthoses. Book a free consultation with our experts today!"
+    content="Temui penyelesaian Pengukuhan Anggota Bawah Artalive untuk kanak-kanak. Tingkatkan mobiliti, keselesaan & kestabilan dengan ortosis khusus. Tempah konsultasi percuma bersama pakar kami hari ini!"
   />
-  <meta property="og:url" content="https://artalive.com.my/pengukuhan-anggota-bawah
-" />
+  <meta property="og:url" content="https://artalive.com.my/my/pengukuhan-anggota-bawah" />
   <meta property="og:type" content="website" />
 </Helmet>
+
 
       <div className="container-fluid  bg-section p-0 line m-0">
         <h1 className="text-desktop  d-none d-md-block display-2 ">

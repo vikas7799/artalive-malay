@@ -89,31 +89,32 @@ const OrthoticsSpecial = () => {
 
   return (
     <>
-      <Helmet>
-        <title>Ortotik Khas in Malaysia | Artalive Sdn Bhd</title>
-        <meta
-          name="description"
-          content="Get custom Ankle Foot & Below Knee Orthosis at Artalive. Ortotik Khas designed for deformities, postural issues & support. Find Ortotics Center near you today!"
-        />
-        <link
-          rel="canonical"
-          href="https://artalive.com.my/ortotik-khas"
-        />
-        <meta name="robots" content="index, follow" />
-        <meta
-          property="og:title"
-          content="Ortotik Khas in Malaysia | Artalive Sdn Bhd"
-        />
-        <meta
-          property="og:description"
-          content="Get custom Ankle Foot & Below Knee Orthosis at Artalive. Ortotik Khas designed for deformities, postural issues & support. Find Ortotics Center near you today!"
-        />
-        <meta
-          property="og:url"
-          content="https://artalive.com.my/ortotik-khas"
-        />
-        <meta property="og:type" content="website" />
-      </Helmet>
+   <Helmet>
+  <title>Ortotik Khas di Malaysia | Artalive Sdn Bhd</title>
+  <meta
+    name="description"
+    content="Dapatkan Ortotik Buku Lali Kaki & Ortotik Bawah Lutut khas di Artalive. Ortotik Khas direka untuk kecacatan, masalah postur & sokongan. Cari pusat ortotik berdekatan anda hari ini!"
+  />
+  <link
+    rel="canonical"
+    href="https://artalive.com.my/my/ortotik-khas"
+  />
+  <meta name="robots" content="index, follow" />
+  <meta
+    property="og:title"
+    content="Ortotik Khas di Malaysia | Artalive Sdn Bhd"
+  />
+  <meta
+    property="og:description"
+    content="Dapatkan Ortotik Buku Lali Kaki & Ortotik Bawah Lutut khas di Artalive. Ortotik Khas direka untuk kecacatan, masalah postur & sokongan. Cari pusat ortotik berdekatan anda hari ini!"
+  />
+  <meta
+    property="og:url"
+    content="https://artalive.com.my/my/ortotik-khas"
+  />
+  <meta property="og:type" content="website" />
+</Helmet>
+
 
       <TopRightButton label="Soalan Lazim" onClick={scrollToFaq} />
 

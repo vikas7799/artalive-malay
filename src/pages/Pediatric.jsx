@@ -54,28 +54,28 @@ const Pediatrics = () => {
 
   return (
     <>
-      <Helmet>
-        <title>
-          Pediatric Orthotics for Children in Malaysia | Custom Fit Solutions |
-          ArtaLive
-        </title>
-        <meta
-          name="description"
-          content="ArtaLive offers customized pediatric orthotics to enhance mobility, comfort, and growth. Support your child’s development with expert care. Book a free consultation today!"
-        />
-        <link rel="canonical" href="https://artalive.com.my/pediatrics" />
-        <meta name="robots" content="index, follow" />
-        <meta
-          property="og:title"
-          content="Pediatric Orthotics for Children in Malaysia | Custom Fit Solutions | ArtaLive"
-        />
-        <meta
-          property="og:description"
-          content="ArtaLive offers customized pediatric orthotics to enhance mobility, comfort, and growth. Support your child’s development with expert care. Book a free consultation today!"
-        />
-        <meta property="og:url" content="https://artalive.com.my/pediatrics" />
-        <meta property="og:type" content="website" />
-      </Helmet>
+<Helmet>
+  <title>
+    Ortotik Pediatrik untuk Kanak-kanak di Malaysia | Penyelesaian Sesi Tepat | Artalive
+  </title>
+  <meta
+    name="description"
+    content="Artalive menawarkan ortotik pediatrik khusus untuk meningkatkan mobiliti, keselesaan, dan pertumbuhan. Sokong perkembangan anak anda dengan penjagaan pakar. Tempah konsultasi percuma hari ini!"
+  />
+  <link rel="canonical" href="https://artalive.com.my/my/pediatrik" />
+  <meta name="robots" content="index, follow" />
+  <meta
+    property="og:title"
+    content="Ortotik Pediatrik untuk Kanak-kanak di Malaysia | Penyelesaian Sesi Tepat | Artalive"
+  />
+  <meta
+    property="og:description"
+    content="Artalive menawarkan ortotik pediatrik khusus untuk meningkatkan mobiliti, keselesaan, dan pertumbuhan. Sokong perkembangan anak anda dengan penjagaan pakar. Tempah konsultasi percuma hari ini!"
+  />
+  <meta property="og:url" content="https://artalive.com.my/my/pediatrik" />
+  <meta property="og:type" content="website" />
+</Helmet>
+
 
       <div className="container-fluid  bg-section p-0 line m-0">
         <h1 className="text-desktop  d-none d-md-block display-2 ">

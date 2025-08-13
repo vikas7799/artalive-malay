@@ -61,62 +61,63 @@ const Ortotik = () => {
 
   return (
     <>
-      <Helmet>
-        <title>
-          Trusted Orthotics Care Center in Kuala Lumpur, Malaysia | ArtaLive
-        </title>
-        <meta
-          name="description"
-          content="Leading orthotics care center in Kuala Lumpur, Malaysia. Expert bracing & support devices. Pusat ortotik for upper limb care. Visit ArtaLive. Book your consultation now!"
-        />
-        <link rel="canonical" href="https://artalive.com.my/orthotics" />
-        <meta name="robots" content="index, follow" />
-        <meta
-          property="og:title"
-          content="Trusted Orthotics Care Center in Kuala Lumpur, Malaysia | ArtaLive"
-        />
-        <meta
-          property="og:description"
-          content="Leading orthotics care center in Kuala Lumpur, Malaysia. Expert bracing & support devices. Pusat ortotik for upper limb care. Visit ArtaLive. Book your consultation now!"
-        />
-        <meta property="og:url" content="https://artalive.com.my/orthotics" />
-        <meta property="og:type" content="website" />
+     <Helmet>
+  <title>
+    Pusat Penjagaan Ortotik Terpercaya di Kuala Lumpur, Malaysia | Artalive
+  </title>
+  <meta
+    name="description"
+    content="Pusat penjagaan ortotik terkemuka di Kuala Lumpur, Malaysia. Pakar dalam alat sokongan & pendakap. Pusat ortotik untuk penjagaan anggota atas. Lawati Artalive. Tempah konsultasi anda sekarang!"
+  />
+  <link rel="canonical" href="https://artalive.com.my/my/ortotik" />
+  <meta name="robots" content="index, follow" />
+  <meta
+    property="og:title"
+    content="Pusat Penjagaan Ortotik Terpercaya di Kuala Lumpur, Malaysia | Artalive"
+  />
+  <meta
+    property="og:description"
+    content="Pusat penjagaan ortotik terkemuka di Kuala Lumpur, Malaysia. Pakar dalam alat sokongan & pendakap. Pusat ortotik untuk penjagaan anggota atas. Lawati Artalive. Tempah konsultasi anda sekarang!"
+  />
+  <meta property="og:url" content="https://artalive.com.my/my/ortotik" />
+  <meta property="og:type" content="website" />
 
-        <script type="application/ld+json">
-          {`
+  <script type="application/ld+json">
+    {`
       {
         "@context": "https://schema.org",
         "@type": "FAQPage",
         "mainEntity": [
           {
             "@type": "Question",
-            "name": "What is an orthosis?",
+            "name": "Apakah itu ortosis?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "An orthosis is an external support device such as braces, AFOs, and KAFOs to assist alignment, stabilization, and movement."
+              "text": "Ortos is ialah alat sokongan luaran seperti pendakap, AFO, dan KAFO untuk membantu penjajaran, penstabilan, dan pergerakan."
             }
           },
           {
             "@type": "Question",
-            "name": "Who should use orthotic devices?",
+            "name": "Siapa yang perlu menggunakan peranti ortotik?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Anyone with muscle, joint, spine, or neurological conditions."
+              "text": "Sesiapa yang mempunyai masalah otot, sendi, tulang belakang, atau keadaan neurologi."
             }
           },
           {
             "@type": "Question",
-            "name": "Can orthotics be used long-term?",
+            "name": "Bolehkah ortotik digunakan untuk jangka masa panjang?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Yes, with proper monitoring and maintenance."
+              "text": "Ya, dengan pemantauan dan penyelenggaraan yang betul."
             }
           }
         ]
       }
     `}
-        </script>
-      </Helmet>
+  </script>
+</Helmet>
+
 
       <TopRightButton label="Soalan Lazim" onClick={scrollToFaq} />
 

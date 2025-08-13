@@ -79,93 +79,93 @@ const UpperLimbOrthotics = () => {
 
   return (
     <>
-      <Helmet>
-        <title>
-          Ortotik Anggota Atas Care In Malaysia | Certified Arm Orthotics Care |
-          ArtaLive
-        </title>
-        <meta
-          name="description"
-          content="Get expert care for upper limb orthotics in Malaysia. ArtaLive offers certified orthotics arm solutions. Call us today for a free consultation with our experienced prosthetist."
-        />
-        <link
-          rel="canonical"
-          href="https://artalive.com.my/ortotik-anggota-atas"
-        />
-        <meta name="robots" content="index, follow" />
-        <meta
-          property="og:title"
-          content="Ortotik Anggota Atas Care In Malaysia | Certified Arm Orthotics Care | ArtaLive"
-        />
-        <meta
-          property="og:description"
-          content="Get expert care for upper limb orthotics in Malaysia. ArtaLive offers certified orthotics arm solutions. Call us today for a free consultation with our experienced prosthetist."
-        />
-        <meta
-          property="og:url"
-          content="https://artalive.com.my/ortotik-anggota-atas"
-        />
-        <meta property="og:type" content="website" />
+     <Helmet>
+  <title>
+    Penjagaan Ortotik Anggota Atas di Malaysia | Penjagaan Ortotik Lengan Bertauliah | Artalive
+  </title>
+  <meta
+    name="description"
+    content="Dapatkan penjagaan pakar untuk ortotik anggota atas di Malaysia. Artalive menawarkan penyelesaian ortotik lengan bertauliah. Hubungi kami hari ini untuk konsultasi percuma bersama pakar prostetik berpengalaman."
+  />
+  <link
+    rel="canonical"
+    href="https://artalive.com.my/my/ortotik-anggota-atas"
+  />
+  <meta name="robots" content="index, follow" />
+  <meta
+    property="og:title"
+    content="Penjagaan Ortotik Anggota Atas di Malaysia | Penjagaan Ortotik Lengan Bertauliah | Artalive"
+  />
+  <meta
+    property="og:description"
+    content="Dapatkan penjagaan pakar untuk ortotik anggota atas di Malaysia. Artalive menawarkan penyelesaian ortotik lengan bertauliah. Hubungi kami hari ini untuk konsultasi percuma bersama pakar prostetik berpengalaman."
+  />
+  <meta
+    property="og:url"
+    content="https://artalive.com.my/my/ortotik-anggota-atas"
+  />
+  <meta property="og:type" content="website" />
 
-        <script type="application/ld+json">
-          {`
-        {
-          "@context": "https://schema.org",
-          "@type": "FAQPage",
-          "mainEntity": [
-            {
-              "@type": "Question",
-              "name": "Who can benefit from prosthetics or orthotics?",
-              "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Anyone who has lost a limb or has mobility challenges can benefit from prosthetic or orthotic devices to support daily functions."
-              }
-            },
-            {
-              "@type": "Question",
-              "name": "Are the devices custom-made?",
-              "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Yes, all devices are tailored to suit each individual's body, lifestyle, and medical needs."
-              }
-            },
-            {
-              "@type": "Question",
-              "name": "How long does it take to adapt to a prosthesis or orthosis?",
-              "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Adaptation varies by person, but typically takes a few weeks with proper training and support."
-              }
-            },
-            {
-              "@type": "Question",
-              "name": "Do I need an appointment to get services?",
-              "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Yes, we recommend scheduling an appointment for a clinical assessment."
-              }
-            },
-            {
-              "@type": "Question",
-              "name": "Is follow-up care available?",
-              "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Yes, we provide regular follow-ups including readjustments, maintenance, and user support."
-              }
-            },
-            {
-              "@type": "Question",
-              "name": "How long does it take for a device to be ready?",
-              "acceptedAnswer": {
-                "@type": "Answer",
-                "text": "Typically between 1 day to 2 weeks depending on device type and component availability."
-              }
+  <script type="application/ld+json">
+    {`
+      {
+        "@context": "https://schema.org",
+        "@type": "FAQPage",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Siapa yang boleh mendapat manfaat daripada prostetik atau ortotik?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Sesiapa yang kehilangan anggota atau mempunyai cabaran mobiliti boleh mendapat manfaat daripada peranti prostetik atau ortotik untuk menyokong fungsi harian."
             }
-          ]
-        }
-      `}
-        </script>
-      </Helmet>
+          },
+          {
+            "@type": "Question",
+            "name": "Adakah peranti dibuat secara khas?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Ya, semua peranti direka khas untuk memenuhi bentuk badan, gaya hidup, dan keperluan perubatan setiap individu."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Berapa lama masa diperlukan untuk menyesuaikan diri dengan prostesis atau ortosis?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Tempoh penyesuaian berbeza mengikut individu, tetapi biasanya mengambil masa beberapa minggu dengan latihan dan sokongan yang betul."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Adakah saya perlu membuat janji temu untuk mendapatkan perkhidmatan?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Ya, kami mengesyorkan membuat janji temu untuk penilaian klinikal."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Adakah penjagaan susulan disediakan?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Ya, kami menyediakan susulan berkala termasuk pelarasan semula, penyelenggaraan, dan sokongan pengguna."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Berapa lama masa diambil untuk peranti siap?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Biasanya antara 1 hari hingga 2 minggu bergantung pada jenis peranti dan ketersediaan komponen."
+            }
+          }
+        ]
+      }
+    `}
+  </script>
+</Helmet>
+
 
       <TopRightButton label="Soalan Lazim" onClick={scrollToFaq} />
 

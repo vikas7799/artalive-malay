@@ -228,34 +228,32 @@ const prostheticKneesCategories = [
     <>
 
 
- <Helmet>
-        <title>
-          Prostetik Anggota Bawah Care In Malaysia | Prosthetic Leg Malaysia |
-          ArtaLive
-        </title>
-        <meta
-          name="description"
-          content="Get expert Prostetik Anggota Bawah Care in Malaysia. From prosthetic leg above the knee to artificial leg below knee, kaki palsu bawah lutut | ArtaLive offers certified care. Call us for a free consultation today!"
-        />
-        <link
-          rel="canonical"
-          href="https://artalive.com.my/prostetik-anggota-bawah"
-        />
-        <meta name="robots" content="index, follow" />
-        <meta
-          property="og:title"
-          content="Prostetik Anggota Bawah Care In Malaysia | Prosthetic Leg Malaysia | ArtaLive"
-        />
-        <meta
-          property="og:description"
-          content="Get expert Prostetik Anggota Bawah Care in Malaysia. From prosthetic leg above the knee to artificial leg below knee, kaki palsu bawah lutut | ArtaLive offers certified care. Call us for a free consultation today!"
-        />
-        <meta
-          property="og:url"
-          content="https://artalive.com.my/prostetik-anggota-bawah"
-        />
-        <meta property="og:type" content="website" />
-
+<Helmet>
+  <title>
+    Penjagaan Prostetik Anggota Bawah di Malaysia | Kaki Palsu Malaysia | Artalive
+  </title>
+  <meta
+    name="description"
+    content="Dapatkan penjagaan Prostetik Anggota Bawah profesional di Malaysia. Dari kaki palsu atas lutut hingga kaki palsu bawah lutut, Artalive menawarkan penjagaan bertauliah. Hubungi kami untuk konsultasi percuma hari ini!"
+  />
+  <link
+    rel="canonical"
+    href="https://artalive.com.my/my/prostetik-anggota-bawah"
+  />
+  <meta name="robots" content="index, follow" />
+  <meta
+    property="og:title"
+    content="Penjagaan Prostetik Anggota Bawah di Malaysia | Kaki Palsu Malaysia | Artalive"
+  />
+  <meta
+    property="og:description"
+    content="Dapatkan penjagaan Prostetik Anggota Bawah profesional di Malaysia. Dari kaki palsu atas lutut hingga kaki palsu bawah lutut, Artalive menawarkan penjagaan bertauliah. Hubungi kami untuk konsultasi percuma hari ini!"
+  />
+  <meta
+    property="og:url"
+    content="https://artalive.com.my/my/prostetik-anggota-bawah"
+  />
+  <meta property="og:type" content="website" />
 
   <script type="application/ld+json">
     {`
@@ -265,82 +263,82 @@ const prostheticKneesCategories = [
         "mainEntity": [
           {
             "@type": "Question",
-            "name": "What is a transtibial prosthesis?",
+            "name": "Apakah itu prostesis transtibial?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "It is a prosthetic limb designed for individuals with amputations below the knee."
+              "text": "Ia adalah anggota palsu yang direka untuk individu dengan amputasi di bawah lutut."
             }
           },
           {
             "@type": "Question",
-            "name": "How long does it take to make a transtibial prosthesis?",
+            "name": "Berapa lama masa diperlukan untuk membuat prostesis transtibial?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Typically 2 to 4 weeks, depending on the clinical assessment."
+              "text": "Kebiasaannya antara 2 hingga 4 minggu, bergantung kepada penilaian klinikal."
             }
           },
           {
             "@type": "Question",
-            "name": "Can it be used for daily activities?",
+            "name": "Bolehkah ia digunakan untuk aktiviti harian?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Yes, transtibial prostheses are made for everyday mobility and active use."
+              "text": "Ya, prostesis transtibial direka untuk mobiliti harian dan penggunaan aktif."
             }
           },
           {
             "@type": "Question",
-            "name": "What is a transfemoral prosthesis?",
+            "name": "Apakah itu prostesis transfemoral?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "It is a prosthesis designed for those with amputations above the knee."
+              "text": "Ia adalah prostesis yang direka untuk individu dengan amputasi di atas lutut."
             }
           },
           {
             "@type": "Question",
-            "name": "Is this type of prosthesis more complex?",
+            "name": "Adakah jenis prostesis ini lebih kompleks?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Yes, it usually involves an artificial knee and higher balance control."
+              "text": "Ya, ia biasanya melibatkan lutut palsu dan kawalan imbangan yang lebih tinggi."
             }
           },
           {
             "@type": "Question",
-            "name": "Is it suitable for all age groups?",
+            "name": "Adakah ia sesuai untuk semua peringkat umur?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Yes, with appropriate customization and training."
+              "text": "Ya, dengan penyesuaian dan latihan yang sesuai."
             }
           },
           {
             "@type": "Question",
-            "name": "What types of hand prostheses do you offer?",
+            "name": "Apakah jenis prostesis tangan yang ditawarkan?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "We offer cosmetic, body-powered, and myoelectric prosthetic options."
+              "text": "Kami menawarkan prostesis kosmetik, dikawal badan, dan myoelektrik."
             }
           },
           {
             "@type": "Question",
-            "name": "Can a prosthetic hand help me return to work?",
+            "name": "Bolehkah prostesis tangan membantu saya kembali bekerja?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Yes, many users return to work successfully with the right prosthesis."
+              "text": "Ya, ramai pengguna berjaya kembali bekerja dengan prostesis yang sesuai."
             }
           },
           {
             "@type": "Question",
-            "name": "Do cosmetic prosthetics look like real hands?",
+            "name": "Adakah prostesis kosmetik kelihatan seperti tangan sebenar?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Yes, cosmetic prostheses closely resemble real skin, veins, and fingerprints."
+              "text": "Ya, prostesis kosmetik direka menyerupai kulit, urat, dan cap jari sebenar."
             }
           }
         ]
       }
     `}
   </script>
+</Helmet>
 
-      </Helmet>
 
       
      <TopRightButton label="Soalan Lazim" onClick={scrollToFaq} />

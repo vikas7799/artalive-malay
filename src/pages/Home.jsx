@@ -24,63 +24,67 @@ const Home = () => {
     }
   };
 
-const highlights = [
-  {
-    icon: w2,
-    alt: "Pengendalian oleh Pakar Klinikal Bertauliah",
-    title: "Pengendalian oleh Pakar Klinikal Bertauliah",
-    desc: "Rawatan anda akan dikendalikan oleh pakar prostetik dan ortotik yang diiktiraf serta berpengalaman, memastikan tahap penjagaan yang terbaik.",
-  },
-  {
-    icon: w3,
-    alt: "Waranti Kelengkapan 6 Bulan",
-    title: "Waranti Kelengkapan 6 Bulan",
-    desc: "Sebarang isu berkaitan pemasangan akan dibincangkan dalam tempoh 6 bulan pertama untuk ketenangan fikiran anda. (*Tertakluk kepada Terma & Syarat)",
-  },
-  {
-    icon: w6,
-    alt: "Jaminan Pecah Soket Selama 5 Tahun",
-    title: "Jaminan Pecah Soket Selama 5 Tahun",
-    desc: "Komponen penyesuai tersuai kami dilindungi oleh jaminan 5 tahun untuk memastikan prestasi jangka panjang. (*Tertakluk kepada Terma & Syarat)",
-  },
-  {
-    icon: w5,
-    alt: "Latihan GAIT Lanjutan",
-    title: "Latihan GAIT Lanjutan",
-    desc: "Artalive Malaysia menyediakan senaman berjalan yang disesuaikan untuk membantu anda menyesuaikan diri dengan prostesis anda secara semula jadi dan berkesan.",
-  },
-  {
-    icon: w1,
-    alt: "Perkhidmatan Percuma Sepanjang Hayat",
-    title: "Perkhidmatan Percuma Sepanjang Hayat",
-    desc: "Dapatkan perkhidmatan penyelenggaraan percuma sepanjang hayat prostesis anda. (*Tertakluk kepada Terma & Syarat)",
-  },
-  {
-    icon: w4,
-    alt: "Konsultasi Klinikal Percuma",
-    title: "Konsultasi Klinikal Percuma",
-    desc: "Temu janji klinikal pertama anda adalah percuma, termasuk penilaian dan cadangan rawatan oleh pakar kami.",
-  },
-];
+  const highlights = [
+    {
+      icon: w2,
+      alt: "Pengendalian oleh Pakar Klinikal Bertauliah",
+      title: "Pengendalian oleh Pakar Klinikal Bertauliah",
+      desc: "Rawatan anda akan dikendalikan oleh pakar prostetik dan ortotik yang diiktiraf serta berpengalaman, memastikan tahap penjagaan yang terbaik.",
+    },
+    {
+      icon: w3,
+      alt: "Waranti Kelengkapan 6 Bulan",
+      title: "Waranti Kelengkapan 6 Bulan",
+      desc: "Sebarang isu berkaitan pemasangan akan dibincangkan dalam tempoh 6 bulan pertama untuk ketenangan fikiran anda. (*Tertakluk kepada Terma & Syarat)",
+    },
+    {
+      icon: w6,
+      alt: "Jaminan Pecah Soket Selama 5 Tahun",
+      title: "Jaminan Pecah Soket Selama 5 Tahun",
+      desc: "Komponen penyesuai tersuai kami dilindungi oleh jaminan 5 tahun untuk memastikan prestasi jangka panjang. (*Tertakluk kepada Terma & Syarat)",
+    },
+    {
+      icon: w5,
+      alt: "Latihan GAIT Lanjutan",
+      title: "Latihan GAIT Lanjutan",
+      desc: "Artalive Malaysia menyediakan senaman berjalan yang disesuaikan untuk membantu anda menyesuaikan diri dengan prostesis anda secara semula jadi dan berkesan.",
+    },
+    {
+      icon: w1,
+      alt: "Perkhidmatan Percuma Sepanjang Hayat",
+      title: "Perkhidmatan Percuma Sepanjang Hayat",
+      desc: "Dapatkan perkhidmatan penyelenggaraan percuma sepanjang hayat prostesis anda. (*Tertakluk kepada Terma & Syarat)",
+    },
+    {
+      icon: w4,
+      alt: "Konsultasi Klinikal Percuma",
+      title: "Konsultasi Klinikal Percuma",
+      desc: "Temu janji klinikal pertama anda adalah percuma, termasuk penilaian dan cadangan rawatan oleh pakar kami.",
+    },
+  ];
 
   return (
     <>
-     <Helmet>
+      <Helmet>
         <title>
-          Prosthetics & Orthotics Centre in Malaysia | Pusat Kaki Palsu, Prosthetic Limb, Artificial Limb | ArtaLive
+          Pusat Prostetik & Ortotik di Malaysia | Pusat Kaki Palsu, Anggota
+          Palsu, Alat Sokongan Ortopedik | Artalive
         </title>
         <meta
           name="description"
-          content="Trusted Prosthetics & Orthotics Centre in Malaysia. Get expert prosthetic care, kaki palsu, prosthetic limbs, orthotics & free consultation with certified prosthetists. Visit ArtaLive today."
+          content="Pusat Prostetik & Ortotik dipercayai di Malaysia. Dapatkan penjagaan prostetik pakar, kaki palsu, anggota palsu, ortotik & konsultasi percuma dengan pakar prostetik bertauliah. Kunjungi Artalive hari ini."
         />
-        <link rel="canonical" href="https://artalive.com.my/" />
+        <link rel="canonical" href="https://artalive.com.my/my" />
         <meta name="robots" content="index, follow" />
-        <meta property="og:title" content="Prosthetics & Orthotics Centre in Malaysia | ArtaLive" />
+        <meta
+          property="og:title"
+          content="Pusat Prostetik & Ortotik di Malaysia | Artalive"
+        />
         <meta
           property="og:description"
-          content="Trusted Prosthetics & Orthotics Centre in Malaysia. Get expert prosthetic care, kaki palsu, prosthetic limbs, orthotics & free consultation with certified prosthetists. Visit ArtaLive today."
+          content="Pusat Prostetik & Ortotik dipercayai di Malaysia. Dapatkan penjagaan prostetik pakar, kaki palsu, anggota palsu, ortotik & konsultasi percuma dengan pakar prostetik bertauliah. Kunjungi Artalive hari ini."
         />
-        <meta property="og:url" content="https://artalive.com.my/" />
+        <meta property="og:url" content="https://artalive.com.my/my" />
         <meta property="og:type" content="website" />
       </Helmet>
 

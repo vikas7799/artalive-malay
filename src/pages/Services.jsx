@@ -85,24 +85,25 @@ const Services = () => {
     <>
 
     <Helmet>
-  <title>Services - Prosthetics | Orthotics | Foot Care Solutions | ArtaLive</title>
+  <title>Perkhidmatan - Prostetik | Ortotik | Penyelesaian Penjagaan Kaki | Artalive</title>
   <meta
     name="description"
-    content="Artalive is pioneer prosthetics, orthotics & foot care solutions service provider in Malaysia. Call Us for free consultation with CPO."
+    content="Artalive ialah penyedia perkhidmatan prostetik, ortotik & penyelesaian penjagaan kaki terkemuka di Malaysia. Hubungi kami untuk konsultasi percuma dengan CPO."
   />
-  <link rel="canonical" href="https://artalive.com.my/services" />
+  <link rel="canonical" href="https://artalive.com.my/my/perkhidmatan" />
   <meta name="robots" content="index, follow" />
   <meta
     property="og:title"
-    content="Services - Prosthetics | Orthotics | Foot Care Solutions | ArtaLive"
+    content="Perkhidmatan - Prostetik | Ortotik | Penyelesaian Penjagaan Kaki | Artalive"
   />
   <meta
     property="og:description"
-    content="Artalive is pioneer prosthetics, orthotics & foot care solutions service provider in Malaysia. Call Us for free consultation with CPO."
+    content="Artalive ialah penyedia perkhidmatan prostetik, ortotik & penyelesaian penjagaan kaki terkemuka di Malaysia. Hubungi kami untuk konsultasi percuma dengan CPO."
   />
-  <meta property="og:url" content="https://artalive.com.my/services" />
+  <meta property="og:url" content="https://artalive.com.my/my/perkhidmatan" />
   <meta property="og:type" content="website" />
 </Helmet>
+
 
 
 

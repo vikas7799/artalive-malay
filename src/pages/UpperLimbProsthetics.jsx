@@ -105,26 +105,26 @@ const upperLimbProsthetics = [
 
 
 <Helmet>
-
-  <title>Prostetik Anggota Atas Care In Malaysia | Prosthetic Arm Malaysia | Fake Prosthetic Hand | ArtaLive</title>
+  <title>
+    Penjagaan Prostetik Anggota Atas di Malaysia | Lengan Palsu Malaysia | Tangan Palsu Kosmetik | Artalive
+  </title>
   <meta
     name="description"
-    content="Looking for a fake prosthetic hand or prosthetic arm in Malaysia? ArtaLive offers expert Prostetik Anggota Atas Care. Call us now for a free consultation with a certified prosthetist!"
+    content="Mencari tangan palsu kosmetik atau lengan prostetik di Malaysia? Artalive menawarkan penjagaan Prostetik Anggota Atas profesional. Hubungi kami sekarang untuk konsultasi percuma dengan pakar prostetik bertauliah!"
   />
-  <link rel="canonical" href="https://artalive.com.my/prostetik-anggota-atas" />
+  <link rel="canonical" href="https://artalive.com.my/my/prostetik-anggota-atas" />
   <meta name="robots" content="index, follow" />
   <meta
     property="og:title"
-    content="Prostetik Anggota Atas Care In Malaysia | Prosthetic Arm Malaysia | Fake Prosthetic Hand | ArtaLive"
+    content="Penjagaan Prostetik Anggota Atas di Malaysia | Lengan Palsu Malaysia | Tangan Palsu Kosmetik | Artalive"
   />
   <meta
     property="og:description"
-    content="Looking for a fake prosthetic hand or prosthetic arm in Malaysia? ArtaLive offers expert Prostetik Anggota Atas Care. Call us now for a free consultation with a certified prosthetist!"
+    content="Mencari tangan palsu kosmetik atau lengan prostetik di Malaysia? Artalive menawarkan penjagaan Prostetik Anggota Atas profesional. Hubungi kami sekarang untuk konsultasi percuma dengan pakar prostetik bertauliah!"
   />
-  <meta property="og:url" content="https://artalive.com.my/prostetik-anggota-atas" />
+  <meta property="og:url" content="https://artalive.com.my/my/prostetik-anggota-atas" />
   <meta property="og:type" content="website" />
 
-  
   <script type="application/ld+json">
     {`
       {
@@ -133,61 +133,58 @@ const upperLimbProsthetics = [
         "mainEntity": [
           {
             "@type": "Question",
-            "name": "Who can benefit from prosthetics or orthotics?",
+            "name": "Siapa yang boleh mendapat manfaat daripada prostetik atau ortotik?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Anyone who has lost a limb or has mobility challenges can benefit from prosthetic or orthotic devices to support daily functions."
+              "text": "Sesiapa yang kehilangan anggota badan atau mempunyai cabaran mobiliti boleh mendapat manfaat daripada peranti prostetik atau ortotik untuk menyokong fungsi harian."
             }
           },
           {
             "@type": "Question",
-            "name": "Are the devices custom-made?",
+            "name": "Adakah peranti ini dibuat khusus?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Yes, all devices are tailored to suit each individual's body, lifestyle, and medical needs."
+              "text": "Ya, semua peranti direka khas mengikut bentuk badan, gaya hidup, dan keperluan perubatan setiap individu."
             }
           },
           {
             "@type": "Question",
-            "name": "How long does it take to adapt to a prosthesis or orthosis?",
+            "name": "Berapa lama masa untuk menyesuaikan diri dengan prostesis atau ortosis?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Adaptation varies by person, but typically takes a few weeks with proper training and support."
+              "text": "Tempoh penyesuaian berbeza mengikut individu, tetapi biasanya mengambil masa beberapa minggu dengan latihan dan sokongan yang betul."
             }
           },
           {
             "@type": "Question",
-            "name": "Do I need an appointment to get services?",
+            "name": "Adakah saya perlu membuat janji temu untuk mendapatkan perkhidmatan?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Yes, we recommend scheduling an appointment for a clinical assessment."
+              "text": "Ya, kami mengesyorkan untuk membuat janji temu bagi penilaian klinikal."
             }
           },
           {
             "@type": "Question",
-            "name": "Is follow-up care available?",
+            "name": "Adakah penjagaan susulan disediakan?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Yes, we provide regular follow-ups including readjustments, maintenance, and user support."
+              "text": "Ya, kami menyediakan susulan berkala termasuk pelarasan semula, penyelenggaraan, dan sokongan pengguna."
             }
           },
           {
             "@type": "Question",
-            "name": "How long does it take for a device to be ready?",
+            "name": "Berapa lama masa yang diperlukan untuk menyiapkan peranti?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Typically between 1 day to 2 weeks depending on device type and component availability."
+              "text": "Biasanya antara 1 hari hingga 2 minggu bergantung kepada jenis peranti dan ketersediaan komponen."
             }
           }
         ]
       }
     `}
   </script>
-
-  
-
-
 </Helmet>
+
 
 
 

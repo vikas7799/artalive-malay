@@ -31,26 +31,27 @@ const Aboutus = () => {
   return (
     <>
       <Helmet>
-        <title>
-          About Us | ArtaLive | Prosthetics & Orthotics Centre in Malaysia
-        </title>
-        <meta
-          name="description"
-          content="Our highly experienced team of clinically certified Prosthetists & Orthotists, registered with International Society for Prosthetics and Orthotics"
-        />
-        <link rel="canonical" href="https://artalive.com.my/about-us" />
-        <meta name="robots" content="index, follow" />
-        <meta
-          property="og:title"
-          content="About Us | ArtaLive | Prosthetics & Orthotics Centre in Malaysia"
-        />
-        <meta
-          property="og:description"
-          content="Our highly experienced team of clinically certified Prosthetists & Orthotists, registered with International Society for Prosthetics and Orthotics"
-        />
-        <meta property="og:url" content="https://artalive.com.my/about-us" />
-        <meta property="og:type" content="website" />
-      </Helmet>
+  <title>
+    Tentang Kami | Artalive | Pusat Prostetik & Ortotik di Malaysia
+  </title>
+  <meta
+    name="description"
+    content="Pasukan kami yang berpengalaman terdiri daripada Pakar Prostetik & Ortotik bertauliah secara klinikal, berdaftar dengan International Society for Prosthetics and Orthotics."
+  />
+  <link rel="canonical" href="https://artalive.com.my/my/tentang-kami" />
+  <meta name="robots" content="index, follow" />
+  <meta
+    property="og:title"
+    content="Tentang Kami | Artalive | Pusat Prostetik & Ortotik di Malaysia"
+  />
+  <meta
+    property="og:description"
+    content="Pasukan kami yang berpengalaman terdiri daripada Pakar Prostetik & Ortotik bertauliah secara klinikal, berdaftar dengan International Society for Prosthetics and Orthotics."
+  />
+  <meta property="og:url" content="https://artalive.com.my/my/tentang-kami" />
+  <meta property="og:type" content="website" />
+</Helmet>
+
 
       <div className="bg-section p-lg-5 p-3 ">
         <div className="container-xl  my-5">

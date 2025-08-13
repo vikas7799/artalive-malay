@@ -117,26 +117,23 @@ const lowerLimbOrthotics = [
     <>
 
 <Helmet>
-
-  <title>Ortotik Anggota Bawah In Malaysia | ArtaLive</title>
+  <title>Ortotik Anggota Bawah di Malaysia | Artalive</title>
   <meta
     name="description"
-    content="Lower limb orthotics are specialist external devices that are used in certain areas of the lower limb to correct an abnormal alignment."
+    content="Ortotik anggota bawah ialah alat sokongan luaran khusus yang digunakan pada bahagian tertentu anggota bawah untuk membetulkan penjajaran yang tidak normal."
   />
-  <link rel="canonical" href="https://artalive.com.my/ortotik-anggota-bawah" />
+  <link rel="canonical" href="https://artalive.com.my/my/ortotik-anggota-bawah" />
   <meta name="robots" content="index, follow" />
   <meta
     property="og:title"
-    content="Ortotik Anggota Bawah In Malaysia | ArtaLive"
+    content="Ortotik Anggota Bawah di Malaysia | Artalive"
   />
   <meta
     property="og:description"
-    content="Lower limb orthotics are specialist external devices that are used in certain areas of the lower limb to correct an abnormal alignment."
+    content="Ortotik anggota bawah ialah alat sokongan luaran khusus yang digunakan pada bahagian tertentu anggota bawah untuk membetulkan penjajaran yang tidak normal."
   />
-  <meta property="og:url" content="https://artalive.com.my/ortotik-anggota-bawah" />
+  <meta property="og:url" content="https://artalive.com.my/my/ortotik-anggota-bawah" />
   <meta property="og:type" content="website" />
-
-
 
   <script type="application/ld+json">
     {`
@@ -146,50 +143,50 @@ const lowerLimbOrthotics = [
         "mainEntity": [
           {
             "@type": "Question",
-            "name": "Who can benefit from prosthetics or orthotics?",
+            "name": "Siapa yang boleh mendapat manfaat daripada prostetik atau ortotik?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Anyone who has lost a limb or has mobility challenges can benefit from prosthetic or orthotic devices to support daily functions."
+              "text": "Sesiapa yang kehilangan anggota atau mempunyai cabaran mobiliti boleh mendapat manfaat daripada peranti prostetik atau ortotik untuk menyokong fungsi harian."
             }
           },
           {
             "@type": "Question",
-            "name": "Are the devices custom-made?",
+            "name": "Adakah peranti dibuat secara khas?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Yes, all devices are tailored to suit each individual's body, lifestyle, and medical needs."
+              "text": "Ya, semua peranti direka khas untuk memenuhi bentuk badan, gaya hidup, dan keperluan perubatan setiap individu."
             }
           },
           {
             "@type": "Question",
-            "name": "How long does it take to adapt to a prosthesis or orthosis?",
+            "name": "Berapa lama masa diperlukan untuk menyesuaikan diri dengan prostesis atau ortosis?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Adaptation varies by person, but typically takes a few weeks with proper training and support."
+              "text": "Tempoh penyesuaian berbeza mengikut individu, tetapi biasanya mengambil masa beberapa minggu dengan latihan dan sokongan yang betul."
             }
           },
           {
             "@type": "Question",
-            "name": "Do I need an appointment to get services?",
+            "name": "Adakah saya perlu membuat janji temu untuk mendapatkan perkhidmatan?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Yes, we recommend scheduling an appointment for a clinical assessment."
+              "text": "Ya, kami mengesyorkan membuat janji temu untuk penilaian klinikal."
             }
           },
           {
             "@type": "Question",
-            "name": "Is follow-up care available?",
+            "name": "Adakah penjagaan susulan disediakan?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Yes, we provide regular follow-ups including readjustments, maintenance, and user support."
+              "text": "Ya, kami menyediakan susulan berkala termasuk pelarasan semula, penyelenggaraan, dan sokongan pengguna."
             }
           },
           {
             "@type": "Question",
-            "name": "How long does it take for a device to be ready?",
+            "name": "Berapa lama masa diambil untuk peranti siap?",
             "acceptedAnswer": {
               "@type": "Answer",
-              "text": "Typically between 1 day to 2 weeks depending on device type and component availability."
+              "text": "Biasanya antara 1 hari hingga 2 minggu bergantung pada jenis peranti dan ketersediaan komponen."
             }
           }
         ]
@@ -197,6 +194,7 @@ const lowerLimbOrthotics = [
     `}
   </script>
 </Helmet>
+
 
 
       <TopRightButton label="Soalan Lazim" onClick={scrollToFaq} />
