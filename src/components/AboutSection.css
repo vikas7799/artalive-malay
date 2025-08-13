@@ -1,0 +1,58 @@
+.img-cover {
+  object-fit: cover;
+  object-position: center center;
+  width: 100%;
+  height: 400px;
+  display: block;
+  border-radius: 16px;
+}
+
+@media (max-width: 768px) {
+  .img-cover {
+    object-fit: cover;
+    object-position: center center;
+    width: 100%;
+    height: 300px;
+    display: block;
+    border-radius: 16px;
+  }
+}
+
+
+
+.address-item i {
+  color: var(--color-orange); /* Or any accent color */
+  min-width: 30px;
+}
+
+.text-orange {
+  color: var(--color-orange);
+}
+
+
+.overlay-card {
+  position: relative;
+  background-size: cover;
+  background-position: center;
+  height: 350px;
+  border-radius: 16px;
+  overflow: hidden;
+  display: flex;
+  align-items: flex-end;
+  transition: transform 0.3s ease;
+}
+
+.overlay-card:hover {
+  transform: scale(1.02);
+}
+
+.overlay-content {
+  background: rgba(0, 0, 0, 0.3); /* Black overlay with transparency */
+  width: 100%;
+  height: 100%;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  color: white;
+}

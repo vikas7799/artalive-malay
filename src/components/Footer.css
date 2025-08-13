@@ -1,0 +1,9 @@
+li>a{
+     color: var(--color-text-secondary);
+  width: 100%;
+}
+
+li>a:hover{
+      color: var(--color-orange);
+
+}

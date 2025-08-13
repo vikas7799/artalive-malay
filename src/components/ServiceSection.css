@@ -1,0 +1,209 @@
+@keyframes beat {
+  0% {
+    transform: scale(1.1);
+  }
+  50% {
+    transform: scale(1.3);
+  }
+  100% {
+    transform: scale(1.1);
+  }
+}
+
+.card {
+  width: 180px;
+  height: 180px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+  border-radius: 100%;
+  text-decoration: none;
+  background-color: var(--color-surface);
+  margin: 15px;
+  padding: 30px;
+  /* transition: background-color 0.3s ease, transform 0.3s ease, margin 0.3s ease; */
+  transition: var(--animation);
+  transform: scale(0.9);
+  border: none !important;
+}
+
+.card:hover {
+  background-color: #00afe020;
+  transform: scale(1);
+  transition: var(--animation);
+}
+
+.card-icon {
+  font-size: 25px;
+  padding: 10px;
+  color: var(--color-text-secondary);
+  transition: transform 0.3s ease, color 0.3s ease;
+}
+
+.card-title {
+  color: var(--color-text-secondary);
+  font-size: 15px;
+  font-family: "Open Sans";
+  text-align: center;
+  transition: var(--animation);
+}
+
+.card:hover .card-icon {
+  transform: scale(1);
+  color: var(--color-bg);
+  animation: beat 0.5s ease-in-out infinite;
+}
+
+.card:hover .card-title {
+  color: var(--color-bg);
+  font-size: 16px;
+}
+
+.imagefill {
+  width: 100%;
+  height: auto;
+  background-size: cover;
+  background-position: center;
+  object-fit: cover;
+}
+
+.imagefill:hover .heading {
+  color: var(--orange);
+  transition: var(--animation);
+}
+
+.card:not(:hover) {
+  transform: scale(0.9);
+  margin: 15px;
+
+  transition: var(--animation);
+
+}
+
+.sectorslide {
+  width: 100%;
+  height: 100vh;
+  object-fit: cover;
+  overflow: hidden;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1800px) {
+  .sectorslide {
+    width: 100vw;
+    object-fit: cover;
+    height: calc(100vh - 100px);
+  }
+}
+
+@media (min-width: 301px) and (max-width: 700px) {
+  
+  .card {
+    width: 128px;
+    height: 128px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+    border-radius: 100%;
+    text-decoration: none;
+    background-color: var(--color-surface);
+    margin: 0px;
+    padding: 15px;
+    transition: var(--animation);
+  }
+
+  .card:not(:hover) {
+    transform: scale(0.9);
+    margin: auto;
+
+    transition: var(--animation);
+
+  }
+
+  .card:hover {
+    background-color: var(--color-bg);
+    transform: scale(1);
+  }
+
+  .card-title {
+    color: var(--color-text-secondary);
+    font-size: 13px;
+    font-family: "Open Sans";
+    text-align: center;
+    transition: var(--animation);
+  }
+
+  .card-icon {
+    font-size: 20px;
+    padding: 10px;
+    color: var(--color-text-secondary);
+    transition: transform 0.3s ease, color 0.3s ease;
+  }
+}
+
+/* .text-desktop {
+  position: absolute;
+
+  z-index: 5;
+
+  top: 50%;
+  left: 50%;
+  text-align: center;
+  transform: translate(-50%, -50%);
+  color: var(--color-bg);
+  width: 100%;
+ height: auto; 
+ margin: 0!important; 
+  font-size: 4rem;
+  scroll-behavior: smooth;
+  transition: font-size all 0.1s ease;
+   margin-top: 20px!important; 
+} */
+
+.sector {
+  height: 120vh;
+  width: 100%;
+  overflow: hidden;
+}
+
+.sector-icon {
+  color: var(--orange);
+  font-size: 4rem;
+}
+
+#sector-desc {
+  position: relative;
+  /* margin-top: -10px!important; */
+}
+
+.content-list > li:hover {
+  color: var(--orange);
+
+  transition: var(--animation);
+}
+
+.swiper-slide {
+  background-color: transparent;
+}
+
+.card-img-top-mobile {
+  height: 300px;
+  width: 100%;
+  border-radius: 12px !important;
+  background-size: cover;
+  margin-bottom: 1rem;
+  object-fit: cover;
+}
+
+#mainImage > img {
+  background-size: cover;
+}
+
+.img-filter {
+  filter: brightness(1.5);
+}
+
+.img-dark {
+  filter: brightness(0.8);
+}
